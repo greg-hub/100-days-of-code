@@ -9,3 +9,12 @@ Built a basic web scraper in Node.js. The app scrapes the breaking SkyNews headl
 
 **Link to work:** [Node-scraper](https://github.com/greg-hub/Node-scraper)
 
+### Day 1: January 3, 2016 (Web scraper)
+Experimenting with native CSS variables and Js from JavaScript30
+
+**Today's Progress**: Built an app to change, color, size and blur of an image.
+
+**Thoughts:** : Was good experiment and see this in action but I won't be moving from Sass anytime soon.
+
+**Link to work:**
+[css-variable-experiments]https://github.com/greg-hub/css-experiments
