@@ -21,7 +21,7 @@ Experimenting with native CSS variables and Js from JavaScript30
 [css-variable-experiments](https://github.com/greg-hub/css-experiments)
 
 ### Day 2: January 4, 2016 (WebGL project)
-Started to take a look WebGL.
+Started to take a look at WebGL.
 
 **Today's Progress**: Graphic card didn't want to run WebGL. After fixing issues I got the project up and going with some shaders.
 
