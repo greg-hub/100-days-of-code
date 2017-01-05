@@ -28,4 +28,14 @@ Started to take a look at WebGL.
 **Thoughts:** : looks complex and intriguing. This will be one of my longer projects to work on for the 100 days.
 
 **Link to work:**
-[css-variable-experiments](https://github.com/greg-hub/WebGL)
+[WebGL](https://github.com/greg-hub/WebGL)
+
+### Day 3: January 5, 2016 (WebGL project - part 2)
+Finished basic shape in WebGL.
+
+**Today's Progress**: working with shaders and buffers on the gpu to get the basic shape working.
+
+**Thoughts:** : I could easily spend 100 days on WebGL but After making the basic shape I'm going to move on. I want to work on a variety of different projects.
+
+**Link to work:**
+[WebGL](https://github.com/greg-hub/WebGL)
