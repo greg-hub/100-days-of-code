@@ -39,3 +39,13 @@ Finished basic shape in WebGL.
 
 **Link to work:**
 [WebGL](https://github.com/greg-hub/WebGL)
+
+### Day 4: January 6, 2016 (WebGL project - part 2)
+Array cardio on JavaScript30.
+
+**Today's Progress**: Working with arrays on JavaScript30.
+
+**Thoughts:** : Great project, lots of different tasks using arrays. Picked up some new tricks.
+
+**Link to work:**
+[array-cardio](https://github.com/greg-hub/JavaScript30-Projects/tree/master/array-cardio)
