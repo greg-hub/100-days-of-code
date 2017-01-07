@@ -40,7 +40,7 @@ Finished basic shape in WebGL.
 **Link to work:**
 [WebGL](https://github.com/greg-hub/WebGL)
 
-### Day 4: January 6, 2016 (WebGL project - part 2)
+### Day 4: January 6, 2016 (Array cardio)
 Array cardio on JavaScript30.
 
 **Today's Progress**: Working with arrays on JavaScript30.
