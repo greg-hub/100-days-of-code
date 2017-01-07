@@ -49,3 +49,13 @@ Array cardio on JavaScript30.
 
 **Link to work:**
 [array-cardio](https://github.com/greg-hub/JavaScript30-Projects/tree/master/array-cardio)
+
+### Day 5: January 7, 2016 (Flex images)
+Flex image gallery on JavaScript30.
+
+**Today's Progress**: Working with flex and basic DOM manipulation to make an animated image gallery.
+
+**Thoughts:** : Fun little project. Enjoying the JavaScript30 track as it has a great variety of content.
+
+**Link to work:**
+[Flex-Panels-Image-Gallery](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Flex-Panels-Image-Gallery)
