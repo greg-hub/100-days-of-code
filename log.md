@@ -59,3 +59,13 @@ Flex image gallery on JavaScript30.
 
 **Link to work:**
 [Flex-Panels-Image-Gallery](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Flex-Panels-Image-Gallery)
+
+### Day 6: January 8, 2016 (Ajax type ahead)
+Building an Ajax search function on JavaScript30.
+
+**Today's Progress**: Working with Ajax to build a search function.
+
+**Thoughts:** : Great stuff, learning more powerful JavaScript tricks!
+
+**Link to work:**
+[Ajax type ahead](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Ajax-Type-Ahead)
