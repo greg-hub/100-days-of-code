@@ -69,3 +69,13 @@ Building an Ajax search function on JavaScript30.
 
 **Link to work:**
 [Ajax type ahead](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Ajax-Type-Ahead)
+
+### Day 7: January 9, 2016 (Array-cardio 2)
+More array tricks on JavaScript30.
+
+**Today's Progress**: Solved a few problems and learnt some new tricks.
+
+**Thoughts:** : Always good to learn better ways to use data with arrays.
+
+**Link to work:**
+[Array-cardio 2](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Array-cardio2)
