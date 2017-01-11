@@ -79,3 +79,13 @@ More array tricks on JavaScript30.
 
 **Link to work:**
 [Array-cardio 2](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Array-cardio2)
+
+### Day 8: January 10, 2016 (HTMLCanvas)
+HTMLCanvas on JavaScript30.
+
+**Today's Progress**: Made a trippy art brush in Canvas
+
+**Thoughts:** : Very tired tonight. It was a good project and I always like working in Canvas.
+
+**Link to work:**
+[HTMLCanvas](https://github.com/greg-hub/JavaScript30-Projects/tree/master/HTMLCanvas)
