@@ -89,3 +89,13 @@ HTMLCanvas on JavaScript30.
 
 **Link to work:**
 [HTMLCanvas](https://github.com/greg-hub/JavaScript30-Projects/tree/master/HTMLCanvas)
+
+### Day 9: January 11, 2016 (Console Tricks)
+learning some new stuff in the console on JavaScript30.
+
+**Today's Progress**: New a few of them and picked up some new tricks.
+
+**Thoughts:** : Always a good thing learning new tricks to make my life easier.
+
+**Link to work:**
+[Console Tricks](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Console-Tricks)
