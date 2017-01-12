@@ -106,5 +106,6 @@ Check-Multiple-Checkboxes function on JavaScript30.
 **Today's Progress**: creating a function to check all the boxes on a list like in Gmail.
 
 **Thoughts:** : I got a lot of the way there on this one with no help. Then I got tired and very stuck so went through the video a couple of times.
+
 **Link to work:**
 [Check-Multiple-Checkboxes](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Check-Multiple-Checkboxes)
