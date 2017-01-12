@@ -83,7 +83,7 @@ More array tricks on JavaScript30.
 ### Day 8: January 10, 2016 (HTMLCanvas)
 HTMLCanvas on JavaScript30.
 
-**Today's Progress**: Made a trippy art brush in Canvas
+**Today's Progress**: Made a trippy art brush in Canvas.
 
 **Thoughts:** : Very tired tonight. It was a good project and I always like working in Canvas.
 
@@ -99,3 +99,12 @@ learning some new stuff in the console on JavaScript30.
 
 **Link to work:**
 [Console Tricks](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Console-Tricks)
+
+### Day 10: January 12, 2016 (Check-Multiple-Checkboxes)
+Check-Multiple-Checkboxes function on JavaScript30.
+
+**Today's Progress**: creating a function to check all the boxes on a list like in Gmail.
+
+**Thoughts:** : I got a lot of the way there on this one with no help. Then I got tired and very stuck so went through the video a couple of times.
+**Link to work:**
+[Check-Multiple-Checkboxes](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Check-Multiple-Checkboxes)
