@@ -93,7 +93,7 @@ HTMLCanvas on JavaScript30.
 ### Day 9: January 11, 2016 (Console Tricks)
 learning some new stuff in the console on JavaScript30.
 
-**Today's Progress**: New a few of them and picked up some new tricks.
+**Today's Progress**: I knew a few of them and picked up some new tricks.
 
 **Thoughts:** : Always a good thing learning new tricks to make my life easier.
 
