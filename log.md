@@ -109,3 +109,13 @@ Check-Multiple-Checkboxes function on JavaScript30.
 
 **Link to work:**
 [Check-Multiple-Checkboxes](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Check-Multiple-Checkboxes)
+
+### Day 11: January 13, 2016 (Custom HTML5 Video player)
+Built a Custom HTML5 Video player on JavaScript30.
+
+**Today's Progress**: Built functions for a Custom HTML5 Video player
+
+**Thoughts:** : Cool little project, I still need to add the full screen button. Will find time to do it tomorrow.
+
+**Link to work:**
+[Custom HTML5 Video player](https://github.com/greg-hub/JavaScript30-Projects/tree/master/custom-video-player)
