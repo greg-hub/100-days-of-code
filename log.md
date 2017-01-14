@@ -119,3 +119,13 @@ Built a Custom HTML5 Video player on JavaScript30.
 
 **Link to work:**
 [Custom HTML5 Video player](https://github.com/greg-hub/JavaScript30-Projects/tree/master/custom-video-player)
+
+### Day 12: January 14, 2016 (key sequence detection)
+Built a Custom HTML5 Video player on JavaScript30.
+
+**Today's Progress**: Built a key sequence detection konami code style.
+
+**Thoughts:** : Great project, loads of fun. It didn't take an hour to finish but as Saturday night It's all good.  
+
+**Link to work:**
+[key sequence detection](https://github.com/greg-hub/JavaScript30-Projects/tree/master/key-sequence-detection)
