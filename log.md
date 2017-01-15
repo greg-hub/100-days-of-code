@@ -129,3 +129,13 @@ Built a key sequence detection function on JavaScript30.
 
 **Link to work:**
 [key sequence detection](https://github.com/greg-hub/JavaScript30-Projects/tree/master/key-sequence-detection)
+
+### Day 13: January 15, 2016 (Slide in scroll effect)
+Slide in scroll effect on JavaScript30.
+
+**Today's Progress**: Built an effect function that slides in an image when user scolls down a page.
+
+**Thoughts:** : I Don't really like the finished effect, think it's a bit tacky. But it's good to see how it works with the window object.
+
+**Link to work:**
+[Slide in scroll effect](https://github.com/greg-hub/JavaScript30-Projects/tree/master/slide-in-on-scroll)
