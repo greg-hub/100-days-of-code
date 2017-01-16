@@ -139,3 +139,13 @@ Slide in scroll effect on JavaScript30.
 
 **Link to work:**
 [Slide in scroll effect](https://github.com/greg-hub/JavaScript30-Projects/tree/master/slide-in-on-scroll)
+
+### Day 14: January 16, 2016 (Object and Arrays - Reference VS Copy)
+Object and Arrays - Reference VS Copy on JavaScript30.
+
+**Today's Progress**: worked through the reference vs copy project.
+
+**Thoughts:** : Interesting stuff, I definitely need to work through this one again to take it all in. 
+
+**Link to work:**
+[Object and Arrays - Reference VS Copy](https://github.com/greg-hub/JavaScript30-Projects/tree/master/References-vs-Copying)
