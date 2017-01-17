@@ -145,7 +145,17 @@ Object and Arrays - Reference VS Copy on JavaScript30.
 
 **Today's Progress**: worked through the reference vs copy project.
 
-**Thoughts:** : Interesting stuff, I definitely need to work through this one again to take it all in. 
+**Thoughts:** : Interesting stuff, I definitely need to work through this one again to take it all in.
 
 **Link to work:**
 [Object and Arrays - Reference VS Copy](https://github.com/greg-hub/JavaScript30-Projects/tree/master/References-vs-Copying)
+
+### Day 15: January 17, 2016 (Local Storage)
+Local storage project on JavaScript30.
+
+**Today's Progress**: Learning about Local Storage and Event Delegation.
+
+**Thoughts:** : Not looked at this before, was a really good lesson on how to use local storage.
+
+**Link to work:**
+[Local storage](https://github.com/greg-hub/JavaScript30-Projects/tree/master/local-storage)
