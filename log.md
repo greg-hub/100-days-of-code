@@ -7,7 +7,7 @@ Built a basic web scraper in Node.js. The app scrapes the breaking SkyNews headl
 
 **Thoughts:** : I had not looked at this before so it was very interesting to build with the npm packages.
 
-**Link to work:** [Node-scraper](https://github.com/greg-hub/Node-scraper)
+**Link to work:** [GitHub](https://github.com/greg-hub/Node-scraper)
 
 
 ### Day 1: January 3, 2016 (css-variable-experiments)
@@ -18,7 +18,8 @@ Experimenting with native CSS variables and Js from JavaScript30
 **Thoughts:** : Was good experiment and see this in action but I won't be moving from Sass anytime soon.
 
 **Link to work:**
-[css-variable-experiments](https://github.com/greg-hub/css-experiments)
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/a51d703c/css-variables/index.html)
+[GitHub](https://github.com/greg-hub/css-experiments)
 
 ### Day 2: January 4, 2016 (WebGL project)
 Started to take a look at WebGL.
@@ -28,7 +29,8 @@ Started to take a look at WebGL.
 **Thoughts:** : looks complex and intriguing. This will be one of my longer projects to work on for the 100 days.
 
 **Link to work:**
-[WebGL](https://github.com/greg-hub/WebGL)
+[RawGit](https://cdn.rawgit.com/greg-hub/WebGL/7ae5c3fb/index.html)
+[GitHub](https://github.com/greg-hub/WebGL)
 
 ### Day 3: January 5, 2016 (WebGL project - part 2)
 Finished basic shape in WebGL.
@@ -38,7 +40,8 @@ Finished basic shape in WebGL.
 **Thoughts:** : I could easily spend 100 days on WebGL but After making the basic shape I'm going to move on. I want to work on a variety of different projects.
 
 **Link to work:**
-[WebGL](https://github.com/greg-hub/WebGL)
+[RawGit](https://cdn.rawgit.com/greg-hub/WebGL/7ae5c3fb/index.html)
+[GitHub](https://github.com/greg-hub/WebGL)
 
 ### Day 4: January 6, 2016 (Array cardio)
 Array cardio on JavaScript30.
@@ -48,7 +51,7 @@ Array cardio on JavaScript30.
 **Thoughts:** : Great project, lots of different tasks using arrays. Picked up some new tricks.
 
 **Link to work:**
-[array-cardio](https://github.com/greg-hub/JavaScript30-Projects/tree/master/array-cardio)
+[GitHub](https://github.com/greg-hub/JavaScript30-Projects/tree/master/array-cardio)
 
 ### Day 5: January 7, 2016 (Flex images)
 Flex image gallery on JavaScript30.
@@ -58,7 +61,8 @@ Flex image gallery on JavaScript30.
 **Thoughts:** : Fun little project. Enjoying the JavaScript30 track as it has a great variety of content.
 
 **Link to work:**
-[Flex-Panels-Image-Gallery](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Flex-Panels-Image-Gallery)
+[RawGit](https://rawgit.com/greg-hub/JavaScript30-Projects/master/Flex-Panels-Image-Gallery/index.html)
+[GitHub](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Flex-Panels-Image-Gallery)
 
 ### Day 6: January 8, 2016 (Ajax type ahead)
 Building an Ajax search function on JavaScript30.
@@ -68,7 +72,8 @@ Building an Ajax search function on JavaScript30.
 **Thoughts:** : Great stuff, learning more powerful JavaScript tricks!
 
 **Link to work:**
-[Ajax type ahead](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Ajax-Type-Ahead)
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/a51d703c/Ajax-Type-Ahead/index.html)
+[GitHub](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Ajax-Type-Ahead)
 
 ### Day 7: January 9, 2016 (Array-cardio 2)
 More array tricks on JavaScript30.
@@ -78,7 +83,8 @@ More array tricks on JavaScript30.
 **Thoughts:** : Always good to learn better ways to use data with arrays.
 
 **Link to work:**
-[Array-cardio 2](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Array-cardio2)
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/a51d703c/Ajax-Type-Ahead/index.html)
+[GitHub](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Array-cardio2)
 
 ### Day 8: January 10, 2016 (HTMLCanvas)
 HTMLCanvas on JavaScript30.
@@ -88,7 +94,8 @@ HTMLCanvas on JavaScript30.
 **Thoughts:** : Very tired tonight. It was a good project and I always like working in Canvas.
 
 **Link to work:**
-[HTMLCanvas](https://github.com/greg-hub/JavaScript30-Projects/tree/master/HTMLCanvas)
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/a51d703c/HTMLCanvas/index.html)
+[GitHub](https://github.com/greg-hub/JavaScript30-Projects/tree/master/HTMLCanvas)
 
 ### Day 9: January 11, 2016 (Console Tricks)
 learning some new stuff in the console on JavaScript30.
@@ -98,7 +105,7 @@ learning some new stuff in the console on JavaScript30.
 **Thoughts:** : Always a good thing learning new tricks to make my life easier.
 
 **Link to work:**
-[Console Tricks](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Console-Tricks)
+[GitHub](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Console-Tricks)
 
 ### Day 10: January 12, 2016 (Check-Multiple-Checkboxes)
 Check-Multiple-Checkboxes function on JavaScript30.
@@ -108,7 +115,9 @@ Check-Multiple-Checkboxes function on JavaScript30.
 **Thoughts:** : I got a lot of the way there on this one with no help. Then I got tired and very stuck so went through the video a couple of times.
 
 **Link to work:**
-[Check-Multiple-Checkboxes](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Check-Multiple-Checkboxes)
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/a51d703c/Check-Multiple-Checkboxes/index.html)
+
+[GitHub](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Check-Multiple-Checkboxes)
 
 ### Day 11: January 13, 2016 (Custom HTML5 Video player)
 Built a Custom HTML5 Video player on JavaScript30.
@@ -118,7 +127,9 @@ Built a Custom HTML5 Video player on JavaScript30.
 **Thoughts:** : Cool little project, I still need to add the full screen button. Will find time to do it tomorrow.
 
 **Link to work:**
-[Custom HTML5 Video player](https://github.com/greg-hub/JavaScript30-Projects/tree/master/custom-video-player)
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/a51d703c/custom-video-player/index.html)
+
+[GitHub](https://github.com/greg-hub/JavaScript30-Projects/tree/master/custom-video-player)
 
 ### Day 12: January 14, 2016 (key sequence detection)
 Built a key sequence detection function on JavaScript30.
@@ -128,7 +139,8 @@ Built a key sequence detection function on JavaScript30.
 **Thoughts:** : Great project, loads of fun. It didn't take an hour to finish but as Saturday night It's all good.  
 
 **Link to work:**
-[key sequence detection](https://github.com/greg-hub/JavaScript30-Projects/tree/master/key-sequence-detection)
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/a51d703c/key-sequence-detection/index.html)
+[GitHub](https://github.com/greg-hub/JavaScript30-Projects/tree/master/key-sequence-detection)
 
 ### Day 13: January 15, 2016 (Slide in scroll effect)
 Slide in scroll effect on JavaScript30.
@@ -138,7 +150,9 @@ Slide in scroll effect on JavaScript30.
 **Thoughts:** : I Don't really like the finished effect, think it's a bit tacky. But it's good to see how it works with the window object.
 
 **Link to work:**
-[Slide in scroll effect](https://github.com/greg-hub/JavaScript30-Projects/tree/master/slide-in-on-scroll)
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/a51d703c/slide-in-on-scroll/index.html)
+
+[GitHub](https://github.com/greg-hub/JavaScript30-Projects/tree/master/slide-in-on-scroll)
 
 ### Day 14: January 16, 2016 (Object and Arrays - Reference VS Copy)
 Object and Arrays - Reference VS Copy on JavaScript30.
@@ -148,7 +162,7 @@ Object and Arrays - Reference VS Copy on JavaScript30.
 **Thoughts:** : Interesting stuff, I definitely need to work through this one again to take it all in.
 
 **Link to work:**
-[Object and Arrays - Reference VS Copy](https://github.com/greg-hub/JavaScript30-Projects/tree/master/References-vs-Copying)
+[Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/References-vs-Copying)
 
 ### Day 15: January 17, 2016 (Local Storage)
 Local storage project on JavaScript30.
@@ -158,4 +172,6 @@ Local storage project on JavaScript30.
 **Thoughts:** : Not looked at this before, was a really good lesson on how to use local storage.
 
 **Link to work:**
-[Local storage](https://github.com/greg-hub/JavaScript30-Projects/tree/master/local-storage)
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/a51d703c/local-storage/index.html)
+
+[Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/local-storage)
