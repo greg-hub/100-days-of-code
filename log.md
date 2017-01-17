@@ -116,7 +116,6 @@ Check-Multiple-Checkboxes function on JavaScript30.
 
 **Link to work:**
 [RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/a51d703c/Check-Multiple-Checkboxes/index.html)
-
 [GitHub](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Check-Multiple-Checkboxes)
 
 ### Day 11: January 13, 2016 (Custom HTML5 Video player)
@@ -128,7 +127,6 @@ Built a Custom HTML5 Video player on JavaScript30.
 
 **Link to work:**
 [RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/a51d703c/custom-video-player/index.html)
-
 [GitHub](https://github.com/greg-hub/JavaScript30-Projects/tree/master/custom-video-player)
 
 ### Day 12: January 14, 2016 (key sequence detection)
@@ -151,7 +149,6 @@ Slide in scroll effect on JavaScript30.
 
 **Link to work:**
 [RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/a51d703c/slide-in-on-scroll/index.html)
-
 [GitHub](https://github.com/greg-hub/JavaScript30-Projects/tree/master/slide-in-on-scroll)
 
 ### Day 14: January 16, 2016 (Object and Arrays - Reference VS Copy)
@@ -173,5 +170,4 @@ Local storage project on JavaScript30.
 
 **Link to work:**
 [RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/a51d703c/local-storage/index.html)
-
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/local-storage)
