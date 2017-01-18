@@ -171,3 +171,14 @@ Local storage project on JavaScript30.
 **Link to work:**
 [RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/a51d703c/local-storage/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/local-storage)
+
+### Day 16: January 18, 2016 (Mouse move shadow)
+Mouse moving shadow project on JavaScript30.
+
+**Today's Progress**: created a moving text shadow when the user mouses over the text.
+
+**Thoughts:** : Tacky effect if not use correctly (see RawGit)
+
+**Link to work:**
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/d99eb8d9/mouse-move-shadow/index.html)
+[Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/mouse-move-shadow)
