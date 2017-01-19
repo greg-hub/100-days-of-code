@@ -182,3 +182,14 @@ Mouse moving shadow project on JavaScript30.
 **Link to work:**
 [RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/d99eb8d9/mouse-move-shadow/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/mouse-move-shadow)
+
+### Day 17: January 19, 2016 (sort-without-articles)
+sorting arrays on JavaScript30.
+
+**Today's Progress**: Reorganised an array list.
+
+**Thoughts:** : Difficult one today. Need to learn more about regex.
+
+**Link to work:**
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/5117d04f/sort-without-articles/index.html)
+[Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/sort-without-articles)
