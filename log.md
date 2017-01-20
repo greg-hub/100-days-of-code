@@ -205,7 +205,7 @@ sorting arrays on JavaScript30.
 [RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/5117d04f/sort-without-articles/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/sort-without-articles)
 
-### Day 19: January 21, 2016 (Adding-Up-Times-with-Reduce)
+### Day 19: January 21, 2016 (Adding Up Times with Reduce)
 Adding-Up-Times-with-Reduce on JavaScript30.
 
 **Today's Progress**: Using .reduce to add up each length of time of an item.
