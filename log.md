@@ -193,3 +193,24 @@ sorting arrays on JavaScript30.
 **Link to work:**
 [RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/5117d04f/sort-without-articles/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/sort-without-articles)
+
+### Day 18: January 20, 2016 (sort-without-articles)
+sorting arrays on JavaScript30.
+
+**Today's Progress**: Reorganised an array list.
+
+**Thoughts:** : Difficult one today. Need to learn more about regex.
+
+**Link to work:**
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/5117d04f/sort-without-articles/index.html)
+[Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/sort-without-articles)
+
+### Day 19: January 21, 2016 (Adding-Up-Times-with-Reduce)
+Adding-Up-Times-with-Reduce on JavaScript30.
+
+**Today's Progress**: Using .reduce to add up each length of time of an item.
+
+**Thoughts:** : Good to see .reduce in action but I'm very tired and will need to go over it again.
+
+**Link to work:**
+[Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Adding-Up-Times-with-Reduce)
