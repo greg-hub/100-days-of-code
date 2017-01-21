@@ -203,3 +203,14 @@ Adding-Up-Times-with-Reduce on JavaScript30.
 
 **Link to work:**
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Adding-Up-Times-with-Reduce)
+
+### Day 19: January 22, 2016 (Webcam photo booth)
+turning the webcam into a photo booth on JavaScript30.
+
+**Today's Progress**: Lots of techniques working with the webcam and Js.
+
+**Thoughts:** : Fun project need to add more some more colour filters.
+
+**Link to work:**
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/860f48f6/photo-booth/index.html)
+[Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/photo-booth)
