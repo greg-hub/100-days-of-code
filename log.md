@@ -214,3 +214,14 @@ turning the webcam into a photo booth on JavaScript30.
 **Link to work:**
 [RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/860f48f6/photo-booth/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/photo-booth)
+
+### Day 20: January 23, 2016 (Speech recognition)
+Speech recognition in the browser on JavaScript30.
+
+**Today's Progress**: Speech recognition app in the browser.
+
+**Thoughts:** : Amazing to do this with no API.
+
+**Link to work:**
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/b8bf9639/native-speech-recognition/index.html)
+[Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/native-speech-recognition)
