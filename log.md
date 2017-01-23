@@ -225,3 +225,13 @@ Speech recognition in the browser on JavaScript30.
 **Link to work:**
 [RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/b8bf9639/native-speech-recognition/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/native-speech-recognition)
+
+### Day 21: January 24, 2016 (Geolocation)
+working with Geolocation on JavaScript30.
+
+**Today's Progress**: app with geolocation abilities.
+
+**Thoughts:** : quick one today, just a small app explaining geolocation
+
+**Link to work:**
+[Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Geolocation)
