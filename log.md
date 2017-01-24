@@ -194,7 +194,7 @@ sorting arrays on JavaScript30.
 [RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/5117d04f/sort-without-articles/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/sort-without-articles)
 
-### Day 18: January 21, 2016 (Adding Up Times with Reduce)
+### Day 18: January 20, 2016 (Adding Up Times with Reduce)
 Adding-Up-Times-with-Reduce on JavaScript30.
 
 **Today's Progress**: Using .reduce to add up each length of time of an item.
@@ -204,7 +204,7 @@ Adding-Up-Times-with-Reduce on JavaScript30.
 **Link to work:**
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Adding-Up-Times-with-Reduce)
 
-### Day 19: January 22, 2016 (Webcam photo booth)
+### Day 19: January 21, 2016 (Webcam photo booth)
 turning the webcam into a photo booth on JavaScript30.
 
 **Today's Progress**: Lots of techniques working with the webcam and Js.
@@ -215,7 +215,7 @@ turning the webcam into a photo booth on JavaScript30.
 [RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/860f48f6/photo-booth/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/photo-booth)
 
-### Day 20: January 23, 2016 (Speech recognition)
+### Day 20: January 22, 2016 (Speech recognition)
 Speech recognition in the browser on JavaScript30.
 
 **Today's Progress**: Speech recognition app in the browser.
@@ -226,7 +226,7 @@ Speech recognition in the browser on JavaScript30.
 [RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/b8bf9639/native-speech-recognition/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/native-speech-recognition)
 
-### Day 21: January 24, 2016 (Geolocation)
+### Day 21: January 23, 2016 (Geolocation)
 working with Geolocation on JavaScript30.
 
 **Today's Progress**: app with geolocation abilities.
@@ -235,3 +235,14 @@ working with Geolocation on JavaScript30.
 
 **Link to work:**
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Geolocation)
+
+### Day 22: January 24, 2016 (navigation effect)
+Follow along Nav on JavaScript30.
+
+**Today's Progress**: created a follow along navigation highlight effect.
+
+**Thoughts:** : Cool little effect to grab the users attention. Looking forward to the more complex effect.
+
+**Link to work:**
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/753e5fcd/follow-along-links/index.html)
+[Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/follow-along-links)
