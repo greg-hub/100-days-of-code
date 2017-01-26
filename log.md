@@ -246,3 +246,14 @@ Follow along Nav on JavaScript30.
 **Link to work:**
 [RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/753e5fcd/follow-along-links/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/follow-along-links)
+
+### Day 23: January 25, 2016 (Webpack boilerplate)
+Webpack boilerplate.
+
+**Today's Progress**: Started making a new webpack bolierplate.
+
+**Thoughts:** : got a lot of it working then I though i would switch to webpack 2.2...nothing working now. I will fix it up tomorrow. 
+
+**Link to work:**
+
+[Github](https://github.com/greg-hub/Boilerplate-2.0)
