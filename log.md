@@ -252,8 +252,17 @@ Webpack boilerplate.
 
 **Today's Progress**: Started making a new webpack bolierplate.
 
-**Thoughts:** : got a lot of it working then I though i would switch to webpack 2.2...nothing working now. I will fix it up tomorrow. 
+**Thoughts:** : got a lot of it working then I thought i would switch to webpack 2.2...nothing working now. I will fix it up tomorrow. 
 
 **Link to work:**
+[Github](https://github.com/greg-hub/webpack)
 
-[Github](https://github.com/greg-hub/Boilerplate-2.0)
+### Day 24: January 26, 2016 (Webpack boilerplate part 2)
+Webpack boilerplate part 2.
+
+**Today's Progress**: Finished up the boilerplate.
+
+**Thoughts:** : Everything is working after the issues last night, webpack is complex but well worth the effort. 
+
+**Link to work:**
+[Github](https://github.com/greg-hub/webpack)
