@@ -266,3 +266,14 @@ Webpack boilerplate part 2.
 
 **Link to work:**
 [Github](https://github.com/greg-hub/webpack)
+
+### Day 25: January 27, 2016 (speech synthesis)
+speech-synthesis
+
+**Today's Progress**: making a speech-synthesis app in the browser.
+
+**Thoughts:** : fun project with the built in speech-synthesis api.
+
+**Link to work:**
+[GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/7807e95c/speech-synthesis/index.html)
+[Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/speech-synthesis)
