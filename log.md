@@ -277,3 +277,14 @@ speech-synthesis
 **Link to work:**
 [GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/7807e95c/speech-synthesis/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/speech-synthesis)
+
+### Day 26: January 28, 2016 (Sticky Nav)
+Sticky Nav
+
+**Today's Progress**: Woking on a sticky nav and logo animation.
+
+**Thoughts:** : Simple one today, working on some sticky nav techniques on JavaScript30
+
+**Link to work:**
+[GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/6798570c/sticky-nav/index.html)
+[Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/sticky-nav)
