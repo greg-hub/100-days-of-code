@@ -288,3 +288,14 @@ Sticky Nav
 **Link to work:**
 [GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/6798570c/sticky-nav/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/sticky-nav)
+
+### Day 27: January 29, 2016 (Event Capture)
+Event Capture
+
+**Today's Progress**:  learning about Event Capture, Propagation, Bubbling and Once 
+
+**Thoughts:** : Interesting topics that need to be covered.
+
+**Link to work:**
+[GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/c644e231/Event-capture/index.html)
+[Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Event-capture)
