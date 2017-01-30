@@ -299,3 +299,14 @@ Event Capture
 **Link to work:**
 [GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/c644e231/Event-capture/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Event-capture)
+
+### Day 28: January 30, 2016 (Stripe Nav)
+Stripe Nav
+
+**Today's Progress**:  follow along stripe nav.
+
+**Thoughts:** : Very cool and smooth nav effect. Awesome to build this.
+
+**Link to work:**
+[GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/07a34685/Stripe-follow-along-nav/index.html)
+[Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Stripe-follow-along-nav)
