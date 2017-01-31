@@ -310,3 +310,14 @@ Stripe Nav
 **Link to work:**
 [GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/07a34685/Stripe-follow-along-nav/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Stripe-follow-along-nav)
+
+### Day 29: January 31, 2016 (Click and drag)
+Click and drag on JavaScript30
+
+**Today's Progress**:  Created a click and drag effect.
+
+**Thoughts:** : Enjoyed this one, good to build this common effect. 
+
+**Link to work:**
+[GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/197c3459/click-and-drag/index.html)
+[Github](https://github.com/wesbos/JavaScript30/tree/master/27%20-%20Click%20and%20Drag)
