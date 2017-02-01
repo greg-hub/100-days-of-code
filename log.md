@@ -321,3 +321,14 @@ Click and drag on JavaScript30
 **Link to work:**
 [GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/197c3459/click-and-drag/index.html)
 [Github](https://github.com/wesbos/JavaScript30/tree/master/27%20-%20Click%20and%20Drag)
+
+### Day 30: Febuary 1, 2016 (Video controler)
+Video controler on JavaScript30
+
+**Today's Progress**:  video speed controller.
+
+**Thoughts:** : quick one today make a speed controller for videos 
+
+**Link to work:**
+[GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/9a5e5f66/video-controller/index.html)
+[Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/video-controller)
