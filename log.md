@@ -332,3 +332,14 @@ Video controler on JavaScript30
 **Link to work:**
 [GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/9a5e5f66/video-controller/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/video-controller)
+
+### Day 31: Febuary 2, 2016 (Countdown Clock)
+made a countdown clock on JavaScript30
+
+**Today's Progress**:  made a timer with different options.
+
+**Thoughts:** : Good and usefull project.
+
+**Link to work:**
+[GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/6c70baf8/countdown-clock/index.html)
+[Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/countdown-clock)
