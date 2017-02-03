@@ -343,3 +343,13 @@ made a countdown clock on JavaScript30
 **Link to work:**
 [GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/6c70baf8/countdown-clock/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/countdown-clock)
+
+### Day 32: Febuary 3, 2016 (Wack a mole game)
+Wack a mole game on JavaScript30
+
+**Today's Progress**:  made a wack a mole game.
+
+**Thoughts:** : Awesome project to end JavaScript30. Happy to be moving on from it.
+
+[GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/71ed30ba/wack-a-mole-game/index.html)
+[Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/wack-a-mole-game)
