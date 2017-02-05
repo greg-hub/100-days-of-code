@@ -353,3 +353,15 @@ Wack a mole game on JavaScript30
 
 [GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/71ed30ba/wack-a-mole-game/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/wack-a-mole-game)
+
+### Day 33: Febuary 5, 2016 (FCC JavaScript)
+JavaScript track on FCC
+
+**Today's Progress**:  finsihed the jQuery and started working through the javascript track on Free code camp
+
+
+**Thoughts:** : Had to have a day off yesterday so I put in over two hours today. It was 
+                pretty basic stuff but looks like it will get alot more interesting soon. 
+
+
+[Profile](https://www.freecodecamp.com/greg-hub)
