@@ -366,13 +366,11 @@ JavaScript track on FCC
 
 [Profile](https://www.freecodecamp.com/greg-hub)
 
-### Day 34: Febuary 6, 2016 (FCC JavaScript)
+### Day 35: Febuary 7, 2016 (FCC JavaScript)
 JavaScript track on FCC
 
-**Today's Progress**: Put another dent in the javascript challenges on FCC
+**Today's Progress**: More of the JavaScript track.
 
-
-**Thoughts:** : Like the layout and structure of the site but it's still nothing I haven't seen or done before yet.
-
-
+**Thoughts:** : Looking forward to getting to the functional programming section 
+                but I might have to start building something as well.
 [Profile](https://www.freecodecamp.com/greg-hub)
