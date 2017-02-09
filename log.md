@@ -373,4 +373,14 @@ JavaScript track on FCC
 
 **Thoughts:** : Looking forward to getting to the functional programming section 
                 but I might have to start building something as well.
+
+[Profile](https://www.freecodecamp.com/greg-hub)
+
+### Day 36: Febuary 8, 2016 (FCC JavaScript)
+JavaScript track on FCC
+
+**Today's Progress**: more ofthe JavaScript track.
+
+**Thoughts:** : Some fun things on here but I'm going to start building a new project tomorrow to mix it up.
+
 [Profile](https://www.freecodecamp.com/greg-hub)
