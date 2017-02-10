@@ -396,3 +396,12 @@ Blog/FCC
                 weekends off. It's really starting to grate on me, but we shall see.
 
 [Profile](https://www.freecodecamp.com/greg-hub)
+
+
+### Day 37: Febuary 10, 2016 (Blog)
+Blog
+
+**Today's Progress**: Started to build my blog, got most of the markup done.
+
+**Thoughts:** : going to keep this site really simple and to the point of what I need it for.
+
