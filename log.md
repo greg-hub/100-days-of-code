@@ -384,3 +384,15 @@ JavaScript track on FCC
 **Thoughts:** : Some fun things on here but I'm going to start building a new project tomorrow to mix it up.
 
 [Profile](https://www.freecodecamp.com/greg-hub)
+
+
+### Day 37: Febuary 9, 2016 (Blog site p[laning and FCC])
+Blog/FCC
+
+**Today's Progress**: made a plan to build a blog site and did some FCC
+
+**Thoughts:** : Been thinking of doing this for a while now, It's time to finaly do it. 
+                I'm starting to think the only way I'm going to get through this is to take             
+                weekends off. It's really starting to grate on me, but we shall see.
+
+[Profile](https://www.freecodecamp.com/greg-hub)
