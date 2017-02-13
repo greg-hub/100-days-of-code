@@ -275,7 +275,7 @@ speech-synthesis
 **Thoughts:** : fun project with the built in speech-synthesis api.
 
 **Link to work:**
-[GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/7807e95c/speech-synthesis/index.html)
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/7807e95c/speech-synthesis/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/speech-synthesis)
 
 ### Day 26: January 28, 2016 (Sticky Nav)
@@ -286,7 +286,7 @@ Sticky Nav
 **Thoughts:** : Simple one today, working on some sticky nav techniques on JavaScript30
 
 **Link to work:**
-[GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/6798570c/sticky-nav/index.html)
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/6798570c/sticky-nav/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/sticky-nav)
 
 ### Day 27: January 29, 2016 (Event Capture)
@@ -297,7 +297,7 @@ Event Capture
 **Thoughts:** : Interesting topics that need to be covered.
 
 **Link to work:**
-[GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/c644e231/Event-capture/index.html)
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/c644e231/Event-capture/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Event-capture)
 
 ### Day 28: January 30, 2016 (Stripe Nav)
@@ -308,7 +308,7 @@ Stripe Nav
 **Thoughts:** : Very cool and smooth nav effect. Awesome to build this.
 
 **Link to work:**
-[GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/07a34685/Stripe-follow-along-nav/index.html)
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/07a34685/Stripe-follow-along-nav/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/Stripe-follow-along-nav)
 
 ### Day 29: January 31, 2016 (Click and drag)
@@ -319,7 +319,7 @@ Click and drag on JavaScript30
 **Thoughts:** : Enjoyed this one, good to build this common effect. 
 
 **Link to work:**
-[GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/197c3459/click-and-drag/index.html)
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/197c3459/click-and-drag/index.html)
 [Github](https://github.com/wesbos/JavaScript30/tree/master/27%20-%20Click%20and%20Drag)
 
 ### Day 30: Febuary 1, 2016 (Video controler)
@@ -330,7 +330,7 @@ Video controler on JavaScript30
 **Thoughts:** : quick one today make a speed controller for videos 
 
 **Link to work:**
-[GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/9a5e5f66/video-controller/index.html)
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/9a5e5f66/video-controller/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/video-controller)
 
 ### Day 31: Febuary 2, 2016 (Countdown Clock)
@@ -341,7 +341,7 @@ made a countdown clock on JavaScript30
 **Thoughts:** : Good and usefull project.
 
 **Link to work:**
-[GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/6c70baf8/countdown-clock/index.html)
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/6c70baf8/countdown-clock/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/countdown-clock)
 
 ### Day 32: Febuary 3, 2016 (Wack a mole game)
@@ -351,7 +351,7 @@ Wack a mole game on JavaScript30
 
 **Thoughts:** : Awesome project to end JavaScript30. Happy to be moving on from it.
 
-[GitRaw](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/71ed30ba/wack-a-mole-game/index.html)
+[RawGit](https://cdn.rawgit.com/greg-hub/JavaScript30-Projects/71ed30ba/wack-a-mole-game/index.html)
 [Github](https://github.com/greg-hub/JavaScript30-Projects/tree/master/wack-a-mole-game)
 
 ### Day 33: Febuary 5, 2016 (FCC JavaScript)
@@ -386,7 +386,7 @@ JavaScript track on FCC
 [Profile](https://www.freecodecamp.com/greg-hub)
 
 
-### Day 37: Febuary 9, 2016 (Blog site p[laning and FCC])
+### Day 37: Febuary 9, 2016 (Blog site planing and FCC)
 Blog/FCC
 
 **Today's Progress**: made a plan to build a blog site and did some FCC
@@ -398,10 +398,21 @@ Blog/FCC
 [Profile](https://www.freecodecamp.com/greg-hub)
 
 
-### Day 37: Febuary 10, 2016 (Blog)
+### Day 38: Febuary 10, 2016 (Blog)
 Blog
 
 **Today's Progress**: Started to build my blog, got most of the markup done.
 
 **Thoughts:** : going to keep this site really simple and to the point of what I need it for.
 
+### Day 39: Febuary 13, 2016 (Blog)
+Blog
+
+**Today's Progress**: Header and nav, mobile and desktop complete. 
+
+**Thoughts:** : I took the weekend off and feel great to carry on with this challenge. I'm just going to be doing this on
+                weekdays now. I know that's not the rules but the over the next three weekends I'm only going to be able to code
+                on one of them. I feel like I can now make it to the end now only doing this on weekdays.
+
+[RawGit](https://rawgit.com/greg-hub/Blog/master/app/index.html)
+[Github](https://github.com/greg-hub/Blog)
