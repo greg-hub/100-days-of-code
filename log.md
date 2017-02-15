@@ -417,7 +417,7 @@ Blog
 [RawGit](https://rawgit.com/greg-hub/Blog/master/app/index.html)
 [Github](https://github.com/greg-hub/Blog)
 
-### Day 39: Febuary 14, 2016 (Blog)
+### Day 40: Febuary 14, 2016 (Blog)
 Blog
 
 **Today's Progress**: Got the body of the home page finished
@@ -427,7 +427,7 @@ Blog
 [RawGit](https://rawgit.com/greg-hub/Blog/master/app/index.html)
 [Github](https://github.com/greg-hub/Blog)
 
-### Day 40: Febuary 15, 2016 (Blog)
+### Day 41: Febuary 15, 2016 (Blog)
 Blog
 
 **Today's Progress**: Finsihed the blog site.
