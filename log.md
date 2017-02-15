@@ -427,13 +427,14 @@ Blog
 [RawGit](https://rawgit.com/greg-hub/Blog/master/app/index.html)
 [Github](https://github.com/greg-hub/Blog)
 
-### Day 40: Febuary 13, 2016 (Blog)
+### Day 40: Febuary 15, 2016 (Blog)
 Blog
 
 **Today's Progress**: Finsihed the blog site.
 
-**Thoughts:** : Everything finished on the site so it's ready to upload when I have writen some content
-                for it. Really happy with the end product and sticking with the plan of ending up with a digital notebook 
+**Thoughts:** : Everything finished on the site so it can be uploaded when I have writen some content.
+                Really happy with the end product and sticking with the plan of having a digital notebook 
                 of tips and techniques for myself. 
+
 [RawGit](https://rawgit.com/greg-hub/Blog/master/app/index.html)
 [Github](https://github.com/greg-hub/Blog)
