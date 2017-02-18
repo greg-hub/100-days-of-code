@@ -438,3 +438,20 @@ Blog
 
 [RawGit](https://rawgit.com/greg-hub/Blog/master/app/index.html)
 [Github](https://github.com/greg-hub/Blog)
+
+### Day 42: Febuary 16, 2016 (Ajax)
+Ajax
+
+**Today's Progress**: experimenting with Ajax
+
+**Thoughts:** :  Testing out some ajax features in the DOM. Not used ajax much and it's something I really need to level up on.
+
+### Day 43: Febuary 17, 2016 (More Ajax)
+More Ajax
+
+**Today's Progress**: Starting to build an ajax search feature.
+
+**Thoughts:** : Still very new to ajax but starting to build a search function. Searching a JSON file for data.
+                I'm thinking of using this as a search feature for my blog.
+
+
