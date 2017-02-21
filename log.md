@@ -454,4 +454,23 @@ More Ajax
 **Thoughts:** : Still very new to ajax but starting to build a search function. Searching a JSON file for data.
                 I'm thinking of using this as a search feature for my blog.
 
+### Day 44: Febuary 20, 2016 (Ajax Search)
+Ajax Search
+
+**Today's Progress**: Finsihed up the ajax search feature.
+
+**Thoughts:** : Like the way this turned out and I will use it for my blog when I have enough content that is worth searching for.
+
+[RawGit](https://rawgit.com/greg-hub/Random/master/ajax-search/index.html)
+[Github](https://github.com/greg-hub/Random/tree/master/ajax-search)
+
+
+### Day 45: Febuary 21, 2016 (BDD)
+BDD
+
+**Today's Progress**: working a couple of hours on a BDD treehouse course.
+
+**Thoughts:** : This is something I need to adapt into my workflow as everything about it makes perfect sense. 
+
+[Github](https://github.com/greg-hub/Random/tree/master/BDD)
 
