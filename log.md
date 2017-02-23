@@ -464,13 +464,30 @@ Ajax Search
 [RawGit](https://rawgit.com/greg-hub/Random/master/ajax-search/index.html)
 [Github](https://github.com/greg-hub/Random/tree/master/ajax-search)
 
-
 ### Day 45: Febuary 21, 2016 (BDD)
 BDD
 
-**Today's Progress**: working a couple of hours on a BDD treehouse course.
+**Today's Progress**: worked a couple of hours on a BDD treehouse course.
 
 **Thoughts:** : This is something I need to adapt into my workflow as everything about it makes perfect sense. 
 
 [Github](https://github.com/greg-hub/Random/tree/master/BDD)
+
+### Day 46: Febuary 22, 2016 (BDD)
+BDD
+
+**Today's Progress**: finished up the BDD course and started looking at some design patterns.
+
+**Thoughts:** : finshed the treehouse course. It was really good but I will need to go over it again. I also started to look at the module pattern.
+
+[Github](https://github.com/greg-hub/Random/tree/master/BDD)
+
+### Day 47: Febuary 23, 2016 (patterns and FCC)
+patterns and FCC
+
+**Today's Progress**: Spent some more time working with the module pattern and also finsihed up the first part of the FCC JavaScript.
+
+**Thoughts:** : The pattern is starting to stick and make alot of sense. I'm still enjoying FCC and happy to be on to the functional programming section.
+
+[Profile](https://www.freecodecamp.com/greg-hub)
 
