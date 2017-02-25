@@ -491,3 +491,21 @@ patterns and FCC
 
 [Profile](https://www.freecodecamp.com/greg-hub)
 
+### Day 48: Febuary 24, 2016 (FCC)
+Object Oriented and Functional Programming on FCC
+
+**Today's Progress**: Started working through the Object Oriented and Functional Programming section on FCC
+
+**Thoughts:** : Worked with some of the conecpts before and it seams like a good short section.
+
+[Profile](https://www.freecodecamp.com/greg-hub)
+
+### Day 49: Febuary 25, 2016 (FCC)
+Object Oriented and Functional Programming on FCC
+
+**Today's Progress**: Finished up the Object Oriented and Functional Programming on section on FCC.
+
+**Thoughts:** : Very concise and short section of FCC. On to the algorithms next.
+
+[Profile](https://www.freecodecamp.com/greg-hub)
+
